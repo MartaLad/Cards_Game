@@ -15,7 +15,7 @@ img {
 body {
   font-family: Arial, Helvetica, sans-serif;
   padding: 30px 50px;
-  background-image: url('../img/background.jpg');
+  background-image: url("../img/background.jpg");
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -116,7 +116,7 @@ body {
   justify-content: center;
   align-items: center;
   border-radius: 15px;
-  background-image: url('../img/card.jpeg');
+  background-image: url("../img/card.jpeg");
   background-position: center;
   background-size: cover;
   margin: 1%;
